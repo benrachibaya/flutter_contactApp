@@ -1,10 +1,13 @@
-# contact_app
+# CONTACT_APP
 
-A new Flutter project.
+An App that display a list of employees with limited adding option (now: adding the same employee). Build an app using Flutter
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+The list of images are copied from https://github.com/ccoenraets/backbone-directory/tree/master/iphone/pics. These are used temporary for testing purpose. 
+
 
 A few resources to get you started if this is your first Flutter project:
 
